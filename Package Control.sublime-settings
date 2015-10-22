@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CakePHP (Native)",
+		"Emmet",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Package Control",
+		"PhpDoc",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"WordPress",
+		"WordPress Developer Resources",
+		"Xdebug Client"
+	]
+}
